@@ -1,0 +1,1 @@
+### Flask project for displaying and managing a digital comic collection
